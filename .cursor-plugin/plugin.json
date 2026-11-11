@@ -1,1 +1,13 @@
-x
+{
+  "name": "avahr",
+  "displayName": "AvaHR",
+  "version": "1.0.0",
+  "description": "Connect Cursor to AvaHR, the hiring platform for small and midsize businesses. Look up jobs, candidates, pipelines, hiring teams and interviews, and create inactive assessment and questionnaire drafts for a person to review.",
+  "author": { "name": "AvaHR", "email": "support@avahr.com", "url": "https://avahr.com" },
+  "homepage": "https://knowledge.avahr.com/how-to-connect-mcp",
+  "repository": "https://github.com/AvaHRMCP/avahr-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["avahr", "hiring", "recruiting", "ats", "mcp"],
+  "mcpServers": "./mcp.json"
+}
